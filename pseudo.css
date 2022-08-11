@@ -1,0 +1,5 @@
+*{margin: 0px;padding: 0px;}
+            a{color: red; text-decoration: none;}
+            a:hover{color: yellow; background: darkorange;}
+            a:active{color: blue; background: green;}
+            a :visited{color: aqua;}
